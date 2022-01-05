@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="right" alt="Gif" scr ="https://cdn.discordapp.com/attachments/712437602296266973/928366797164535818/ezgif.com-gif-maker.gif">
+  <img align="right" alt="Gif" scr ="https://cdn.discordapp.com/attachments/712437602296266973/928367269338300416/ezgif.com-gif-maker.gif">
 </div>
   
   ##
