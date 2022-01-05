@@ -1,5 +1,5 @@
-### Hi, I'm Thainá ❤️
-##
+# Hi, I'm Thainá ❤️
+
 - ⌚ Currently working with software quality
 - 💻 Studying Computer Science
 <div>
