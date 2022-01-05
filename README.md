@@ -2,9 +2,8 @@
 
 - 🔭 Atualmente estou estagiando
 - 🌱 Estudando Java
-<div>
-  <a href="https//github.com/Hillary157">
-  <img height ="180em" src = "https://github-readme-stats.vercel.app/apiHillary157=anuraghazra)](https://github.com/anuraghazra/github-readme-stats">
-  <img height ="180em" src = "https://github-readme-stats.vercel.app/apiHillary157=anuraghazra&show_icons=true&theme=radical">
-     
-<div/>
+<div align="center">
+  <a href="https://github.com/Hillary157">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hillary157&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hillary157&layout=compact&langs_count=7&theme=dracula"/>
+</div>
