@@ -18,6 +18,8 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   <img width="250" align="right" src="https://media.discordapp.net/attachments/712437602296266973/928367269338300416/ezgif.com-gif-maker.gif">
@@ -28,7 +30,7 @@
   <a href="https://www.linkedin.com/in/thainá-sol-chaves-gomes-1120b21b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div/>
   
-  <div>
+<div>
  
  ![Snake animation](https://github.com/EloisaOliveira/EloisaOliveira/blob/output/github-contribution-grid-snake.svg)
 </div>
