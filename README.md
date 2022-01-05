@@ -1,7 +1,7 @@
-### Olá, eu sou a Thainá 👋
+### Hi, I'm Thainá ❤️
 ##
-- 🔭 Atualmente estou estagiando
-- 🌱 Estudando Java
+- ⌚ Currently working with software quality
+- 💻 Studying Computer Science
 <div>
   <a href="https://github.com/Hillary157">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hillary157&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
